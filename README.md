@@ -23,7 +23,7 @@
 - Для Chrome: Кнопка "..." - Расширения - Управление расширениями - Tampermonkey - Сведения - включить "Разрешить пользовательские скрипты"
 
 Версии скрипта:
-- Версия с фиксами (рекомендуется): https://raw.githubusercontent.com/hfrancisjr/hwa/refs/heads/main/hwa_v4.user.js
+- Последняя версия (рекомендуется): https://raw.githubusercontent.com/hfrancisjr/hwa/refs/heads/main/hwa_v5.user.js
   - сразу выставлен порядок комнат (вода, земля, солянка, огонь)
   - доп кнопка RUN - сразу запускать подземелье, минус 1 клик мышью
 - Исходная версия, без фиксов: https://raw.githubusercontent.com/hfrancisjr/hwa/refs/heads/main/hwa_v0.user.js
